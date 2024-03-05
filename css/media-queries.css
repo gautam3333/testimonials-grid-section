@@ -1,0 +1,27 @@
+@media (max-width: 1024px) {
+  article {
+    margin-bottom: 2.4rem;
+  }
+  .testimonials-container {
+    max-width: 768px;
+    display: block;
+  }
+}
+
+@media (max-width: 768px) {
+  .testimonials-container {
+    max-width: 64rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .testimonials-container {
+    max-width: 51.2rem;
+  }
+}
+
+@media (max-width: 384px) {
+  .testimonials-container {
+    max-width: 30rem;
+  }
+}
